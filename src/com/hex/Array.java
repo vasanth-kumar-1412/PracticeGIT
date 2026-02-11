@@ -9,6 +9,8 @@ public class Array {
 		List<String> li = new ArrayList<>();
 		li.add("Honda");
 		li.add("Toyoto");
+		li.add("Virtus");
+		li.add("BMW");
 		
 		System.out.println(li);
 			
